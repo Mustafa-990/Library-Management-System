@@ -23,6 +23,6 @@ The librarian can upate the quantity of already existing set of books which is s
 There is also an option where all the details of the books are
 printed. Name of the book, available quantity of the books that can be issued and total number of books that library has.
  Print book in-order:
-Prints the contents of the binary search tree i.e. the names of the books in ascending order as the tree is balanced.
+Prints the contents of the binary  search tree i.e. the names of the books in ascending order as the tree is balanced.
  Requirements of processing on data structures
  Keeping elements in a specific order (ascending order) in  Binary Search tree is balanced.
